@@ -6,20 +6,20 @@
 
 <h1>🗒Componentes utilizados🗒</h1>
 <ul>
-<li>Primeiramente, foram adquiridos os itens principais:</li>
-<li>Umidificador</li>
+<li a>Primeiramente, foram adquiridos os itens principais:</li>
+<h3>Umidificador<h3>
 <p>Tem como função manter o nível da umidade de ar do ambiente dentro dos padrões, assim facilitando a respiração. Este aparelho é indicado para lugares secos, abafados e que tenham o uso constante de ar condicionado.</p>
 <img src="./img/umidificador.png" alt="Umidificador">
-<li>Relé</li>
-<p>É um interruptor eletromecânico projetado por Michael Faraday na década de 1830, com inúmeras aplicações possíveis em comutação de contatos elétricos, servindo para ligar ou desligar dispositivos.</p>
+<h3>Relé</h3>
+<p>h3m interruptor eletromecânico projetado por Michael Faraday na década de 1830, com inúmeras aplicações possíveis em comutação de contatos elétricos, servindo para ligar ou desligar dispositivos.</p>
 <img src="./img/rele.png" alt="Relé">
-<li>Micro controlador esp32 - NodeMCU</li>
+<h3>Micro controlador esp32 - NodeMCU</h3>
 <p>É um pequeno microcontrolador desenvolvido com a capacidade de proporcionar comunicação sem fio através do Wifi e através do próprio sistema Bluetooth. Seu pequeno tamanho e a sua grande eficiência fazem com que este dispositivo destaca-se dentre tantos outros.</p>
 <img src="./img/nodemcu.png" alt="esp32">
-<li>Sensor DHT11</li>
+<h3>Sensor DHT11<h3>
 <p>É um sensor de temperatura e umidade que permite fazer leituras de temperaturas entre 0 a 50 Celsius e umidade entre 20 a 90%</p>
 <img src="./img/sensordht11.png" alt="Sensor Dht11">
-<li>Display LCD</li>
+<h3>Display LCD</h3>
 <p>É um painel fino usado para exibir as informações de entrada por via eletrônica. Essas informações podem ser texto, vídeos e imagens.</p>
 <img src="./img/displaylcd.png" alt="display lcd">
 </ul>
