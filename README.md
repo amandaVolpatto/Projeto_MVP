@@ -32,6 +32,7 @@
 <h1>💻Programação💻</h1>
 <img src="./img/programacao.png" alt="">
 <p>Todos os códigos utilizados neste trabalho foram feitos com o auxílio do docente Rafael Barbosa, e também por parte dos discentes do grupo, com base em seus conhecimentos.</p>
+<a href="https://github.com/amandaVolpatto/Projeto_MVP/tree/main/Projects"><p>👨‍💻Códigos👨‍💻</p></a>
 
 <h1>Muito obrigada/o!</h1>
 <img src="./img/dog.gif" alt="">
