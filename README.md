@@ -35,7 +35,7 @@
 <a href="https://github.com/amandaVolpatto/Projeto_MVP/tree/main/Projects"><p>👨‍💻Códigos👨‍💻</p></a>
 
 <h1>💡Protótipo💡</h1>
-
+<img src="./img/umidificador.png" alt="Umidificador">
 
 <h1>Muito obrigada/o!</h1>
 <img src="./img/dog.gif" alt="">
